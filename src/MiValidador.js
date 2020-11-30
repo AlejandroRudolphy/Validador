@@ -15,7 +15,10 @@ export default function MiValidador(params) {
         setClave(e.target.value);
     }
 
-     if(clave === "uvalpo") return <p>Maravilloso</p>
+     if(clave === "Bolano12") 
+     return <img src="https://image.shutterstock.com/image-vector/emoji-emoticon-pulling-his-finger-600w-1607332054.jpg"
+            width="100"
+            height="100"/>
 
      return  (<div>
         <input type="text" value={rutIngresado} onChange={change}  />
