@@ -11,7 +11,7 @@ function App() {
       widht="400"
       height="400"
       />
-        <p>Clave U de Valpo</p>
+        <p>Validador clave U de Valpo</p>
         <MiValidador  RUT = "123456789" />
       </header>
     </div>
