@@ -8,6 +8,7 @@ function App() {
       <header className="App-header">
       <img 
       src="https://i.pinimg.com/originals/32/82/36/328236d1e2cecebea49a5a0ceda62d95.jpg"
+      alt="ojito"
       widht="400"
       height="400"
       />

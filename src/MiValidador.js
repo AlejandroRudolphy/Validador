@@ -17,6 +17,7 @@ export default function MiValidador(params) {
 
      if(clave === "Bolano12") 
      return <img src="https://image.shutterstock.com/image-vector/emoji-emoticon-pulling-his-finger-600w-1607332054.jpg"
+            alt="ojito"
             width="100"
             height="100" /> 
 
