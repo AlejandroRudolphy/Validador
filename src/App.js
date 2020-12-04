@@ -1,10 +1,5 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
-import ReactDOM from "react-dom";
-
-import {Button} from "@material-ui/core"
-import MiComponente from './MiComponente';
 import MiValidador from './MiValidador';
 
 function App() {
@@ -17,7 +12,7 @@ function App() {
       height="400"
       />
         <p>Clave U de Valpo</p>
-        <MiValidador  valor = "123456789" />
+        <MiValidador  RUT = "123456789" />
       </header>
     </div>
   );
